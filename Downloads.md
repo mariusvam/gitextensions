@@ -1,0 +1,1 @@
+Downloads moved to http://sourceforge.net/projects/gitextensions/
